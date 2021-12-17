@@ -1,0 +1,7 @@
+Theme=clam
+MMcolor=#FACC2E
+OMcolor=blue
+MCcolor=#FF8000
+OCcolor=#04B404
+ChatLogSize=12
+InfoLogSize=10
